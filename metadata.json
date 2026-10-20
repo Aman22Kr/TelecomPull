@@ -1,0 +1,6 @@
+{
+  "name": "TelecomPull - Mobiles, Electronics & Telecom",
+  "description": "TelecomPull is India's trusted destination for smartphones, laptops, smart TVs, audio gear, telecom accessories, and certified electronics with express delivery and no-cost EMI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
